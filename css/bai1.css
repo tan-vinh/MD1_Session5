@@ -54,6 +54,7 @@
 .form-btn button{
     background-color: blue;
     color: white;
+    border: none;
 }
 
 .form-footer{
